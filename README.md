@@ -1,4 +1,4 @@
-﻿# ContactLimiter
+﻿# [ARCHIVE] ContactLimiter
 
 In order to prevent a DDOS via many attempts to execute `contact.php`, the script only sends the contact message if a recorded amount of sends is a low amount. Therefore, if the value was high, it can be assumed that many contacts were sent by either many people or a DDOS attack. Taking the latter, we can limit the amount of contacts sent on [www.npwd.tech/contact](www.npwd.tech/contact).
 
