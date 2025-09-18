@@ -5,12 +5,3 @@ In order to prevent a DDOS via many attempts to execute `contact.php`, the scrip
 ContactLimiter is part of this system. It resets the amount of contacts to 0 every 3 days to allow for contacts. Meaning, in the case that many people did contact, there would be more contacts available in 3 days at any time.
 
 ContactLimiter was a utility for this purpose that was kept running on the web server that hosted [www.npwd.tech](www.npwd.tech), when it was running.
-
- ## **Author**
-Nathan Weber
-
-**GitHub** [@npweber](https://github.com/npweber/)
-
-***Many thanks!***
-
-
